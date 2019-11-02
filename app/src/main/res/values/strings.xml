@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Seltius</string>
+
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="signIn">Entrar</string>
+    <string name="signUp">Registar</string>
+    <string name="registerTitle">Registo</string>
+    <string name="dantasSign">Developed by Jose Dantas</string>
+    <string name="logo">Logo</string>
+
+    <!--Your comment-->
+    <string name="firstName">Primeiro nome</string>
+    <string name="lastName">Último nome</string>
+    <string name="name">Nome</string>
+    <string name="birthDate">Data de nascimento</string>
+    <string name="phoneNumber">Telemóvel</string>
+    <string name="fiscalNumber">Número Fiscal</string>
+
+</resources>
