@@ -8,13 +8,22 @@
     <string name="registerTitle">Registo</string>
     <string name="dantasSign">Developed by Jose Dantas</string>
     <string name="logo">Logo</string>
+    <string name="hello">Bem vindo,</string>
+    <string name="clientName">Jose Dantas</string>
 
-    <!--Your comment-->
+    <!--Fields-->
     <string name="firstName">Primeiro nome</string>
     <string name="lastName">Último nome</string>
     <string name="name">Nome</string>
     <string name="birthDate">Data de nascimento</string>
     <string name="phoneNumber">Telemóvel</string>
     <string name="fiscalNumber">Número Fiscal</string>
+    <string name="schedule">Marcar</string>
+    <string name="scheduled">Marcações</string>
+    <string name="points">Pontos</string>
+    <string name="account">Conta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

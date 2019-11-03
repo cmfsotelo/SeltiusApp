@@ -1,15 +1,17 @@
-package pt.seltius;
+package pt.seltius.activies;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import pt.seltius.R;
 
 public class SignUpActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sign_up);
+        setContentView(R.layout.signup_activity);
     }
 
     @Override

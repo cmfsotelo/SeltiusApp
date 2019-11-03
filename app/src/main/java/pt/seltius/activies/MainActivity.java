@@ -1,14 +1,16 @@
-package pt.seltius;
+package pt.seltius.activies;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class LobbyActivity extends AppCompatActivity {
+import pt.seltius.R;
+
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_lobby);
+        setContentView(R.layout.main_activity);
     }
 }

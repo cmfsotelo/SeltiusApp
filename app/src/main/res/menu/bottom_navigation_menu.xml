@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/schedule"
+        android:id="@+id/bottomNavigationSchedule"
+        android:icon="@drawable/outline_schedule_white_24"/>
+
+    <item android:title="@string/scheduled"
+        android:id="@+id/bottomNavigationScheduled"
+        android:icon="@drawable/outline_list_white_24"/>
+
+    <item android:title="@string/points"
+        android:id="@+id/bottomNavigationPoints"
+        android:icon="@drawable/outline_sentiment_satisfied_alt_white_24"/>
+
+    <item android:title="@string/account"
+        android:id="@+id/bottomNavigationAccount"
+        android:icon="@drawable/outline_account_circle_white_24"/>
+
+</menu>

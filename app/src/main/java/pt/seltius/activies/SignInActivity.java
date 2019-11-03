@@ -1,4 +1,4 @@
-package pt.seltius;
+package pt.seltius.activies;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,12 +7,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity {
+import pt.seltius.R;
+
+public class SignInActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.signin_activity);
 
         Button registerButton = findViewById(R.id.registerBtn);
         Button loginButton = findViewById(R.id.signInBtn);
@@ -30,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                openActivity(LobbyActivity.class);
+                openActivity(MainActivity.class);
             }
         });
     }

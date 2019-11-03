@@ -8,4 +8,6 @@
     <color name="blue">#1a73e8</color>
     <color name="black">#000000</color>
     <color name="white">#FFF</color>
+    <color name="wine">#592C33</color>
+    <color name="brightWine">#7a565b</color>
 </resources>
